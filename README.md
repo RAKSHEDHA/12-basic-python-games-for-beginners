@@ -97,7 +97,7 @@ Hey, it's Rakshedha, your 2nd-year B.Tech friend! Welcome to 12-basic-python-gam
 
 ## Getting Started
 
-Download the source code: [Retro Game Vault Project](https://github.com/RAKSHEDHA/Retro-Game-Vault)
+Download the source code: https://github.com/RAKSHEDHA/12-basic-python-games-for-beginners
 
 Run the script and have fun!
 
