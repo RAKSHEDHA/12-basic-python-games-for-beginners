@@ -1,6 +1,6 @@
 # 12-basic-python-games-for-beginners
 
-Hey, it's Rakshedha, your 2nd-year B.Tech friend! Welcome to 12-basic-python-games-for-beginners, my nostalgic treasure trove of classic games. Let's relive the fun and play together!
+ Welcome to 12-basic-python-games-for-beginners, my nostalgic treasure trove of classic games. Let's relive the fun and play together!
 
 ## Features
 
